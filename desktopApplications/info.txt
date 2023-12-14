@@ -1,1 +1,0 @@
-In this project I worked on the creation of a desktop application game, where the user matches animal emoji pairs for time.
